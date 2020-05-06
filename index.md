@@ -2,7 +2,7 @@
 
 ## Projects:
 
-- Coffee [Link](https://voidkun0000.github.io/Projects/1%20-%20HTML%20Coffee%20Project/)
+- Coffee HTML [Link](https://voidkun0000.github.io/Projects/1%20-%20HTML%20Coffee%20Project/)
 
 ## Markdown
 
